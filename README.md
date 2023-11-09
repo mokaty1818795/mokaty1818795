@@ -1,7 +1,29 @@
-### Hi there 👋
+### Hi there 👋 My name is Tlotliso Mokati
+
+### Intermediate Full Stack Developer
+
+---------------------------
+### 📫 How to reach me:
+- Phone Numbers: +266 5370 9423 +266 6305 1280
+- Email Address: ✉️ tlotlisomokati@gmail.com
+
+---------------------------
+### Social Links
+
+  <a href="[https://github.com/DevLereko/](https://github.com/mokaty1818795/mokaty1818795)" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> 
+  <a href="https://www.linkedin.com/in/tlotliso-mokati-968238185/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
+
+           
+---------------------------
+### Current Location
+*   🌍  Lesotho Maseru 
+
+---------------------------
+
+<a href="https://github.com/mokaty1818795" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mokaty1818795&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages%20%Recognized" alt="Top Languages" /></a>
 
 <!--
-**mokaty1818795/mokaty1818795** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**DevLereko/DevLereko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
