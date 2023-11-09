@@ -25,7 +25,7 @@
 --------------------------
 ![Tlotliso Mokati's GitHub stats](https://github-readme-stats.vercel.app/api?username=mokaty1818795&count_private=true&show_icons=true&theme=radical)
 [![Tlotliso Mokati's GitHub Streak](https://streak-stats.demolab.com?user=mokaty1818795&theme=radical)](https://git.io/streak-stats)
-[![Tlotliso Mokati's github activity graph](https://activity-graph.herokuapp.com/graph?username=mokaty1818795&theme=rogue)](https://github.com/osotatanekeeni/github-readme-activity-graph)
+[![Tlotliso's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mokaty1818795&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--
 **DevLereko/DevLereko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
