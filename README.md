@@ -24,7 +24,7 @@
 
 --------------------------
 ![Tlotliso Mokati's GitHub stats](https://github-readme-stats.vercel.app/api?username=mokaty1818795&count_private=true&show_icons=true&theme=radical)
-[![GitHub Streak](https://streak-stats.demolab.com?user=mokaty1818795&theme=radical)](https://git.io/streak-stats)
+[![ Tlotliso Mokati's GitHub Streak](https://streak-stats.demolab.com?user=mokaty1818795&theme=radical&type=png)](https://git.io/streak-stats)
 [![Tlotliso Mokati's github activity graph](https://activity-graph.herokuapp.com/graph?username=mokaty1818795&theme=rogue)](https://github.com/osotatanekeeni/github-readme-activity-graph)
 
 <!--
