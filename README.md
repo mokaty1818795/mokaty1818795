@@ -22,6 +22,11 @@
 
 <a href="https://github.com/mokaty1818795" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mokaty1818795&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages%20%Recognized" alt="Top Languages" /></a>
 
+--------------------------
+![Tlotliso Mokati's GitHub stats](https://github-readme-stats.vercel.app/api?username=mokaty1818795&count_private=true&show_icons=true&theme=radical)
+[![Tlotliso Mokati's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mokaty1818795&theme=radical)](https://git.io/streak-stats)
+[![Tlotliso Mokati's github activity graph](https://activity-graph.herokuapp.com/graph?username=mokaty1818795&theme=rogue)](https://github.com/osotatanekeeni/github-readme-activity-graph)
+
 <!--
 **DevLereko/DevLereko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
